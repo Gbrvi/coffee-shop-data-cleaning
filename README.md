@@ -54,7 +54,7 @@ Análise da distribuição de pedidos e ticket médio por dia da semana (ordenad
 
 ## 💻 Tecnologias Utilizadas
 
-* **Python 3.10+**
+* **Python 3.14**
 * **Pandas:** Limpeza, transformação, interpolação lógica e agregações relacionais.
 * **NumPy:** Vetorização e manipulação de valores nulos.
 * **Matplotlib:** Construção de gráficos de Pareto (eixo duplo), séries temporais e boxplots analíticos.
